@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "hsbc_chatbot",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "chatbot_server2",
+    "password": "8E6F4g6Ky1DdHndY",
+    "database": "hsbc_chatbot",
+    "host": "35.202.200.150",
+    "dialect": "mysql"
+  }
+}
